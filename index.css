@@ -25,9 +25,9 @@ body {
 }
 
 .container {
-    width: 90%;
+    width: 85%;
     height: 100%;
-    padding: 64px 18px 8px 18px;
+    padding: 64px 36px 8px 36px;
     box-shadow: 3px 0 5px -2px black;
     background-color: #ffffff;
     margin: 0 auto;
@@ -48,4 +48,8 @@ body {
     padding: 4px;
     color: #ffffff;
     font-style: bold;
+}
+
+#result {
+    margin-top:48px;
 }
